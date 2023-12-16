@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h1{
+    margin-top: 1.8em;
+}
+input {
+    padding: 10px;
+    margin: 10px;
+}
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    margin-top: 1em;
+    cursor: pointer;
+}
+#result{
+    border: 1px solid rgb(243, 243, 243);
+    margin: 15px 5em;
+    box-shadow: 0 15px 25px rgba(0,0,0,0.2);  
+    padding: 20px;
+}
